@@ -249,4 +249,9 @@
     <!-- Fingerprint authentication vibration -->
     <string name="sucess_vib_title">Successful authentication</string>
     <string name="sucess_vib_summary">Vibrate on successful authentication</string>
+
+    <!-- Option for prevent ringing setting -->
+    <string name="prevent_ringing_option_cycle">Cycle through modes</string>
+    <!-- Summary for prevent ringing setting -->
+    <string name="prevent_ringing_option_cycle_summary">On (cycle through modes)</string>
 </resources>
